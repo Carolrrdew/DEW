@@ -1,0 +1,22 @@
+p{
+    font-weight: bolder;
+    background-color: rgb(145, 252, 252);
+}
+div{
+    color: rgb(42, 93, 160);
+}
+div p {
+    background-color: rgb(226, 160, 204);
+}
+#Carol p
+
+
+
+
+.fundo_vermelho{
+    background-color: blueviolet;
+}
+
+.centralizado {
+    text-align: center;
+}
